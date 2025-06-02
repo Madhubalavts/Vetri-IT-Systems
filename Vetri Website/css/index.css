@@ -1,0 +1,242 @@
+*{
+    font-style: DM SANS;
+}
+.vhead{
+    font-style: DM SANS;
+    color: #2e4053;
+    font-weight: bold;
+    margin: 15px;
+    font-size: 35px;
+}
+.link{
+    color:#2e4053;
+    text-decoration: none;
+    font-style: DM SANS;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.link1 a:hover{
+    color: #2e4053;
+    font-style: DM SANS;
+    text-decoration-line: underline;
+    text-decoration-color: #16b653;
+}
+.body{
+    background-color: #2e4053;
+    font-style: DM SANS;
+}
+.index{
+    display: grid;
+    float: right;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;
+    color: #16b653;
+}
+.index{
+    display: grid;
+    float: left;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;
+}
+.index1{
+    display: grid;
+    float: right;
+    margin: 10px;
+    padding: 20px;
+}
+.head{
+    color: #ffffff;
+    margin-left: 20px;
+}
+.container1{
+    background-color: #ffffff;
+    color: black;
+    font-weight: bold;
+    width: 100%;
+    height: 100px;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-left: 45px;
+}
+.container2{
+    background-color: #2e4053;
+}
+.plan{
+     width: 1400px;
+      height: 1500px;
+      background-color: white;
+      background: linear-gradient(to bottom, white, green);
+      margin: 80px;
+    
+}
+.contact{
+     width: 1400px;
+      height: 2500px;
+      background-color: white;
+      margin: 80px;
+    
+}
+.cbox{
+     width: 500px;
+      height: 600px;
+      background-color: #2e4053;
+      color: #ffffff;
+      margin: 80px;
+    border-radius: 10px;
+}
+.cbox1{
+    margin-left: 700px;
+    margin-bottom: 2000px;
+     width: 500px;
+      height: 600px;
+      background-color: #2e4053;
+      color: #ffffff;;
+    border-radius: 10px;
+}
+.ccc{
+    width: 280px;
+    height: 10px;
+    background-color: #2e4053;
+    margin-left: 20px;
+}
+.ver{
+    display: inline-block; 
+    width: 1px; 
+    height: 20px; 
+    background-color: #16b653; 
+       
+}
+.line{
+    display: inline-block; 
+    width: 5px; 
+    height: 20px; 
+    background-color: #16b653; 
+}
+
+.high{
+    color:#16b653;
+    letter-spacing: 1px;
+}
+.gallery {
+      display: grid;
+      gap: 10px;
+      /* Default to single column */
+      grid-template-columns: repeat(3,1fr);
+      max-width: 1000px;
+      margin: 50px;
+    }
+
+.hh{
+    display: inline-block; 
+    width: 100%; 
+    height: 2px; 
+    background-color: #16b653; 
+    vertical-align: middle;
+    margin: 20px;
+}
+.footer{
+    display: inline;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #ffffff;
+}
+
+.sub{
+    width: 45%;
+    color: #ffffff;
+    font-size: 25px;
+}
+.fpara{
+    width: 30%;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-style: DM SANS;
+}
+.mail{
+    margin: 40px;
+    margin-top: 80px;
+    color: #ffffff;
+    list-style: none;
+    font-size: 15px;
+    padding: 20px;
+    display: inline;
+    float: left;
+}
+.about{
+    display: grid;
+    margin-left: 800px;
+}
+.apara{
+    color: #ffffff;
+    font-size: 20px;
+    width: 1000px;
+    line-height: 50px;
+    margin: 20px;
+}
+
+.business1{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.btext{
+    color: #16b653; 
+    float: right;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.btext1{
+    width:75%;
+    color: #ffffff;
+    padding:5px;
+    font-size: 20px;
+    margin-left: 75%;
+    line-height: 40px;
+}
+.btext2{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.logo{
+    float: left;
+    margin-right: 15px;
+    padding-left: 20px;
+}
+.home{
+    display: grid;
+    list-style: none;
+    color: #ffffff;
+    margin-left: 850px;
+}
+.read{
+    text-decoration: none;
+    color: black;
+}
+.condinar3{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1350px;
+    margin-left: 70px;
+    }
+.fproduct{
+    display: block;
+    background-color: aliceblue;
+    border: 1px solid gainsboro;
+    margin: 20px;
+    padding: 25px;
+    width: 400px;
+    list-style: none;
+    }
+
+    .round{
+        margin-left: 180px;
+    }
